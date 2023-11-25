@@ -1,1 +1,1 @@
-var arr = css clip path
+/*css clip path*/
